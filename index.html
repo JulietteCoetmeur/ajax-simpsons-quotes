@@ -21,6 +21,7 @@
 
             <div class="content" id="simpson"></div>
         </div>
+        <button id="btn">New quotes please ! </button>
     </section>
 
     <!-- We need to load axios first! -->
@@ -50,6 +51,7 @@
         }
 
         fetchSimpsonJSON();
+        document.getElementById("btn").addEventListener("click", fetchSimpsonJSON);
     </script>
 </body>
 
