@@ -7,6 +7,8 @@ It was done with the goals of :
 * Understand JSON format
 * Use the Axios library
 
-#Access the demo
+#Access the demo : [Website](https://juliettecoetmeur.github.io/ajax-simpsons-quotes/)
 
-[Website](https://juliettecoetmeur.github.io/ajax-simpsons-quotes/)
+[![simspon.png](https://i.postimg.cc/dQ524V3r/simspon.png)](https://postimg.cc/pyn5dxDL)
+
+
